@@ -86,7 +86,7 @@ body{
   margin: var(--header-height) 0 0 0;
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
-  background: black;
+  background: rgba(255, 255, 255, 0);
   color: var(--text-color);
 }
 
